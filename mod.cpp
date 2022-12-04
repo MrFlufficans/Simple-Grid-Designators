@@ -1,0 +1,11 @@
+name = "Simple Grid Designators";
+Author = "Fluffy";
+picture = "icons\SimpleGridDesignators.paa";
+logoSmall = "icons\SimpleGridDesignatorsNoText.paa";
+logo = "icons\SimpleGridDesignatorsNoText.paa";
+logoOver = "";
+tooltip = "Hewwo ^w^ Me am Simple Grid Designators v1.3";
+dlcColor[] = {0.706,0.0745,0.0196,1};
+overview = "Designators and Drones show Grid Location of Laser Position";
+hideName = 0;
+hidePicture = 0;
