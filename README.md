@@ -70,7 +70,7 @@ So in Terms of Credits
     MadMax
     For the Idea and Base work considering his mod is the Older Grandpa of this mod, which as I was writing this gave me the go head to upload this "Successor?" of his mod
     Grumpy Old Man
-    He Provided the Nice PosToGrid[forums.bohemia.net] Function this Mod Abuses heavily to provide the actual grid coordinates. As of Version 1.0 I have striped down Grumpy Old Man's function and streamlined it but I will obviously still leave the credit to him
+    He Provided the Nice PosToGrid Function this Mod Abuses heavily to provide the actual grid coordinates. As of Version 1.0 I have striped down Grumpy Old Man's function and streamlined it but I will obviously still leave the credit to him
 
 License
 You are free to use this to Learn
